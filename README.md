@@ -344,3 +344,8 @@ Apache-2.0 License - 详见 [LICENSE](LICENSE)
 ## Keywords
 
 OCR, PaddleOCR, text recognition, document digitization, enterprise OCR, OCR API, OCR service, Chinese OCR, multilingual OCR, table recognition, ID card recognition, bank card recognition, license plate recognition, 文字识别, 光学字符识别, 企业级OCR, OCR服务, 文档数字化
+
+## Related AI resources
+
+Need to compare free AI tools and API credits for document processing workflows? [yangmao.ai](https://yangmao.ai/en/) tracks AI free tiers, API credits, no-credit-card tools, and task-based AI resources.
+
